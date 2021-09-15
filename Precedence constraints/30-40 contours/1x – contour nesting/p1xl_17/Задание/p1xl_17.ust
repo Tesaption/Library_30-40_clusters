@@ -1,0 +1,26 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST1100X700
+  Count=1
+[DETAIL]
+  File=C:\GEODET\AND1
+  Count=2
+[DETAIL]
+  File=C:\GEODET\BAGL20-4
+  Count=8
+[DETAIL]
+  File=C:\GEODET\BAGL12-3
+  Count=4
+[DETAIL]
+  File=C:\GEODET\COR42
+  Count=8
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=

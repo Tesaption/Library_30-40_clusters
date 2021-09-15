@@ -1,0 +1,26 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST1100x700
+  Count=1
+[DETAIL]
+  File=C:\GEODET\4-SH8
+  Count=4
+[DETAIL]
+  File=C:\GEODET\4.1 - 1 ÿ“
+  Count=3
+[DETAIL]
+  File=C:\GEODET\40ZOL-9
+  Count=4
+[DETAIL]
+  File=C:\GEODET\5.(10ÃÃ)-2ÿ“ - ƒ≈“¿À‹1
+  Count=4
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=

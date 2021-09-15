@@ -1,0 +1,26 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST1500x900
+  Count=1
+[DETAIL]
+  File=C:\GEODET\IVEL2
+  Count=8
+[DETAIL]
+  File=C:\GEODET\EU6-1
+  Count=5
+[DETAIL]
+  File=C:\GEODET\NOG-5
+  Count=8
+[DETAIL]
+  File=C:\GEODET\NOG12-1
+  Count=8
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=

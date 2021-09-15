@@ -1,0 +1,26 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST850X600
+  Count=1
+[DETAIL]
+  File=C:\GEODET\682000.440.220.03.03.09V2 ó  Œœ»ﬂ (7.1)
+  Count=4
+[DETAIL]
+  File=C:\GEODET\8-SH7
+  Count=3
+[DETAIL]
+  File=C:\GEODET\9.2 - 1 ÿ“
+  Count=4
+[DETAIL]
+  File=C:\GEODET\6INGIN4
+  Count=4
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=

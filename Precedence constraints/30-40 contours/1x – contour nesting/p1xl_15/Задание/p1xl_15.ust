@@ -1,0 +1,26 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST700X400
+  Count=1
+[DETAIL]
+  File=C:\GEODET\EU16
+  Count=1
+[DETAIL]
+  File=C:\GEODET\FS10-44
+  Count=6
+[DETAIL]
+  File=C:\GEODET\FLN3
+  Count=3
+[DETAIL]
+  File=C:\GEODET\PRYAM100X40
+  Count=5
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=

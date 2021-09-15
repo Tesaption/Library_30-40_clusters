@@ -1,0 +1,26 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST800X600
+  Count=1
+[DETAIL]
+  File=C:\GEODET\16ZAK15
+  Count=2
+[DETAIL]
+  File=C:\GEODET\20-SH10
+  Count=3
+[DETAIL]
+  File=C:\GEODET\PRYAM175X70
+  Count=10
+[DETAIL]
+  File=C:\GEODET\16POLI9
+  Count=2
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=

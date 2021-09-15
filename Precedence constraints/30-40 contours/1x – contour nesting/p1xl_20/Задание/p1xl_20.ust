@@ -1,0 +1,29 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST1100X700
+  Count=1
+[DETAIL]
+  File=C:\GEODET\6INGIN4
+  Count=4
+[DETAIL]
+  File=C:\GEODET\8-SH7
+  Count=4
+[DETAIL]
+  File=C:\GEODET\AND1
+  Count=4
+[DETAIL]
+  File=C:\GEODET\ARM1
+  Count=2
+[DETAIL]
+  File=C:\GEODET\PRYAM100X50_1
+  Count=4
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=

@@ -1,0 +1,26 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST800X600
+  Count=1
+[DETAIL]
+  File=C:\GEODET\BAGL20-4
+  Count=6
+[DETAIL]
+  File=C:\GEODET\BO7
+  Count=2
+[DETAIL]
+  File=C:\GEODET\PRYAM100X40
+  Count=5
+[DETAIL]
+  File=C:\GEODET\PRYAM130X60
+  Count=7
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=

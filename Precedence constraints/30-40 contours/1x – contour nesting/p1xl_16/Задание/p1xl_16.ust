@@ -1,0 +1,26 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST1000X500
+  Count=1
+[DETAIL]
+  File=C:\GEODET\Pryam250x250
+  Count=1
+[DETAIL]
+  File=C:\GEODET\KR150
+  Count=6
+[DETAIL]
+  File=C:\GEODET\KR200
+  Count=1
+[DETAIL]
+  File=C:\GEODET\SN10-18
+  Count=8
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=

@@ -1,0 +1,23 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST1000x500
+  Count=1
+[DETAIL]
+  File=C:\GEODET\DUB1-2
+  Count=1
+[DETAIL]
+  File=C:\GEODET\EDIK5
+  Count=6
+[DETAIL]
+  File=C:\GEODET\EU16
+  Count=4
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=
